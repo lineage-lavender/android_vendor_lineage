@@ -131,6 +131,10 @@ PRODUCT_PACKAGES += \
     LineageSetupWizard \
     Updater
 
+# LongShot
+PRODUCT_PACKAGES += \
+    Longshot
+
 # Themes
 PRODUCT_PACKAGES += \
     LineageThemesStub \
